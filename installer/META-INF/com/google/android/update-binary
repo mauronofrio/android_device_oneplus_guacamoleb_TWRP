@@ -32,7 +32,7 @@ extract() {
 }
 
 print "########################################"
-print "#   TWRP installer for OnePlus 7 Pro   #"
+print "#     TWRP installer for OnePlus 7     #"
 print "#            by mauronofrio            #"
 print "########################################"
 print
